@@ -14,7 +14,7 @@
 
 
 ### Running the Application:
-- In the same directory, run the command: java PetSuggester
+- In the same directory, run the command: `java PetSuggester`
 
 
 ## Features
